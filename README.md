@@ -66,14 +66,6 @@ cd Lista-De-Tarefa-Utilizando-DOM
 
 3. Abra o arquivo `index.html` em um navegador.
 
-## Possíveis Melhorias
-
-* Persistência de dados com LocalStorage
-* Implementação de edição de tarefas
-* Suporte a reordenação de tarefas (drag and drop)
-* Modo escuro
-* Melhorias de responsividade
-
 ## Licença
 
 Este projeto está disponível para fins de estudo e uso pessoal.
