@@ -55,7 +55,7 @@ lista-de-tarefas/
 1. Clone o repositório:
 
 ```bash id="v1k9xa"
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Mxthxzy000/Lista-De-Tarefa-Utilizando-DOM.git
 ```
 
 2. Acesse o diretório do projeto:
