@@ -61,7 +61,7 @@ git clone https://github.com/Mxthxzy000/Lista-De-Tarefa-Utilizando-DOM.git
 2. Acesse o diretório do projeto:
 
 ```bash id="3m92lo"
-cd seu-repositorio
+cd Lista-De-Tarefa-Utilizando-DOM
 ```
 
 3. Abra o arquivo `index.html` em um navegador.
